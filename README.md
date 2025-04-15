@@ -1,6 +1,6 @@
 # :wave: Hello there .&nbsp;.&nbsp;. I'm Joy Machuka.
 
-## I am a fullstack developer, data scientist and machine learning engineer passionate about making things easier and smooth with code.
+## I am a data professional with hands-on experience in data analytics, data science, machine learning engineering, business intelligence, and data engineering. I am passionate about leveraging code to automate workflows, optimize data pipelines, and build scalable, efficient systems.
 
 - 🌱 I’m currently learning react and docker.
 
